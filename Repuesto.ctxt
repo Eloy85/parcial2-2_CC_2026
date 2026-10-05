@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Repuesto
+comment1.params=codigo\ descripcion\ precio
+comment1.target=Repuesto(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment4.params=
+comment4.target=double\ getPrecio()
+numComments=5
